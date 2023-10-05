@@ -1,0 +1,4 @@
+openpyxl
+selenium
+docx2txt
+PyMuPDF
